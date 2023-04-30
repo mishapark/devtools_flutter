@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Wick",
+    "email": "atuny0@sohu.com",
+    "pic": "assets/1.jpeg",
+    "average": 3.5,
+    "activist": false
+  },
+  {
+    "id": 2,
+    "firstName": "Terry",
+    "lastName": "Medhurst",
+    "email": "atuny0@sohu.com",
+    "pic": "assets/1.jpeg",
+    "average": 4.5,
+    "activist": false
+  },
+  {
+    "id": 3,
+    "firstName": "Michael",
+    "lastName": "Jordan",
+    "email": "atuny0@sohu.com",
+    "pic": "assets/1.jpeg",
+    "average": 5.5,
+    "activist": true
+  },
+  {
+    "id": 4,
+    "firstName": "Eddy",
+    "lastName": "Lee",
+    "email": "atuny0@sohu.com",
+    "pic": "assets/1.jpeg",
+    "average": 6.5,
+    "activist": false
+  },
+  {
+    "id": 5,
+    "firstName": "Jim",
+    "lastName": "Halpert",
+    "email": "atuny0@sohu.com",
+    "pic": "assets/1.jpeg",
+    "average": 7.5,
+    "activist": true
+  },
+  {
+    "id": 6,
+    "firstName": "Leon",
+    "lastName": "Scott",
+    "email": "atuny0@sohu.com",
+    "pic": "assets/1.jpeg",
+    "average": 8.5,
+    "activist": false
+  },
+  {
+    "id": 7,
+    "firstName": "Tim",
+    "lastName": "Black",
+    "email": "atuny0@sohu.com",
+    "pic": "assets/1.jpeg",
+    "average": 9.5,
+    "activist": true
+  },
+  {
+    "id": 8,
+    "firstName": "George",
+    "lastName": "Fox",
+    "email": "atuny0@sohu.com",
+    "pic": "assets/1.jpeg",
+    "average": 1.5,
+    "activist": false
+  },
+  {
+    "id": 9,
+    "firstName": "Walter",
+    "lastName": "Logunov",
+    "email": "atuny0@sohu.com",
+    "pic": "assets/1.jpeg",
+    "average": 0.5,
+    "activist": true
+  },
+  {
+    "id": 10,
+    "firstName": "Dennis",
+    "lastName": "White",
+    "email": "atuny0@sohu.com",
+    "pic": "assets/1.jpeg",
+    "average": 3.5,
+    "activist": true
+  }
+]
